@@ -10,5 +10,15 @@ Yup, this sure is yet another blog. I'm toying with this as a location for
 posts that don't fit neatly into either [psych0tik.blog](1) or the
 [99designs tech-blog](2) where I've also been known to write.
 
+For some idea of what to expect here, I'm big on:
+
+* Abusing Ruby
+* LISP, specifically scheme, generally chicken scheme
+* Building cool shit on the internet
+* Distributed things
+
+And I generally push these hairbrained schemes to my [github profile](3)
+
 [1]: http://blog.psych0tik.net
 [2]: https://99designs.com/tech-blog
+[3]: https://github.com/richo
