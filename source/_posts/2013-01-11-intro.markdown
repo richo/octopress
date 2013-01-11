@@ -1,0 +1,14 @@
+---
+layout: post
+title: "intro"
+date: 2013-01-11 23:16
+comments: true
+categories:
+---
+
+Yup, this sure is yet another blog. I'm toying with this as a location for
+posts that don't fit neatly into either [psych0tik.blog](1) or the
+[99designs tech-blog](2) where I've also been known to write.
+
+[1]: http://blog.psych0tik.net
+[2]: https://99designs.com/tech-blog
