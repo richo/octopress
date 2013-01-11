@@ -1,0 +1,26 @@
+---
+layout: post
+title: "code test"
+date: 2013-01-11 23:51
+comments: true
+categories:
+---
+
+```ruby
+
+class Foo
+  def butts
+    puts "lulz" =~ /lulz/
+  end
+end
+
+```
+
+```python
+
+class Lol(object):
+    @decor
+    def trolol(args, *arg):
+        print("trololol")
+```
+
